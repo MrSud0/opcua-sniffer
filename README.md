@@ -1,6 +1,4 @@
 # opcua-sniffer
-Certainly! Below is a `README.md` file that you can use for your GitHub repository:
-
 ```markdown
 # OPC UA Packet Sniffer
 
@@ -80,15 +78,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-### Save the above content to a file named `README.md` in your repository.
-
-### Explanation:
-
-- **Title and Description**: Briefly describes the project and its features.
-- **Requirements**: Lists the required software and libraries.
-- **Installation**: Provides step-by-step instructions to set up the project.
-- **Usage**: Explains how to run the script with examples.
-- **Arguments**: Details the script's command-line arguments.
-- **Logging**: Describes the logging mechanism and verbosity levels.
-- **Contributing**: Invites contributions and references the license.
