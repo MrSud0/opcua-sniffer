@@ -1,5 +1,3 @@
-# opcua-sniffer
-```markdown
 # OPC UA Packet Sniffer
 
 This project is a Python script that sniffs OPC UA packets on a specified network interface and port, and logs various types of information from these packets. The script uses `pyshark` to capture packets and `logging` for output. 
@@ -77,4 +75,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
