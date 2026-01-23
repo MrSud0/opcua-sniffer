@@ -118,6 +118,8 @@ def mine_write_request(opcua_layer, packet_number: int, verbosity_level: int = 1
     try:
         if hasattr(opcua_layer, 'int64'):
             logger.info(f"Packet {packet_number}: Write Value: {opcua_layer.int64}")
+        else:
+            logger.info(f"Packet {packet_number}: Read Value: [Unsupported Data Type]")
     except Exception as e:
         logger.error(f"Packet {packet_number}: Error processing packet: {e}")
 
